@@ -6,7 +6,6 @@ Date: 2021-01-27
 
 ## Functions
 
-```zsh
 main.cpp
  - void video(): fill in corsopngind dir, and it will turn video to img by frame
  - void imgInfo(Mat img): output width, hight, channels
@@ -17,7 +16,6 @@ terminal.h
  - text_colour(int serial): change console text and background color
  - int fixNumber(int num): change RGB values (0~255) to console color values (0, 128, 192, 225)
  - int RGB2ConsoleColor(int R, int G, int B): turn a RGB color to corsponding console color
-```
 
 ## Env
  - OpenCV2
