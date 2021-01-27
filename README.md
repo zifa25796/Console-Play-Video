@@ -11,6 +11,7 @@ main.cpp
  - void imgInfo(Mat img): output width, hight, channels
  - Mat getImg(String path): Load in one img to Mat obj, and resize it to proper pixle size
  - int* printImg(Mat img): print the img on console, the return value is useless, could be void
+
 terminal.h
  - void gotoxy(int x, int y): change cursor position to x, y
  - text_colour(int serial): change console text and background color
